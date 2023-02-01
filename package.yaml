@@ -24,6 +24,7 @@ library:
     - http-types
     - template-haskell
     - text
+    - safe-exceptions-checked
     - exceptions
     - path > 0.7
     - path-io
